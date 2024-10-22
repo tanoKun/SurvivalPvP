@@ -1,0 +1,4 @@
+name: SurvivalPVP
+version: '${project.version}'
+main: com.github.tanokun.survivalpvp.SurvivalPVP
+api-version: '1.19'
